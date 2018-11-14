@@ -2,7 +2,7 @@
 **Ccode Version: Alpha**  
 
 ![](https://upload-images.jianshu.io/upload_images/9825434-bcb41da1b72e4016.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
-![image](https://github.com/jinglikeblue/sokoban/blob/master/Sokoban/Assets/Sokoban/Res/Imgs/UI/Joystick.png)
+
 以前自己用Flash做的小游戏重新用Unity复刻了一次，加强了美术效果以及优化了关卡    
 游戏名：「推箱子 3D」「Sokoban 3D  
 开发引擎：Unity  
